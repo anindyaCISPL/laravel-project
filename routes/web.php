@@ -24,3 +24,7 @@ Route::get('/about',function(){
 Route::get('/report',function(){
     return 'Feature reporting';
 });
+
+Route::get('/issue',function(){
+    return 'Issue 43';
+});
