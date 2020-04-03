@@ -84,7 +84,7 @@
 
                     This is Laravel 7
 
-
+                    Push to github.
                 </div>
 
                 <div class="links">
